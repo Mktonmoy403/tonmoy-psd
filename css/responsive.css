@@ -1,0 +1,70 @@
+@media all and ( max-width : 1100px ){
+	
+	
+	.g-box { 
+		width:23%;
+		margin-top:20px;
+	}
+	
+	
+}
+
+@media all and ( max-width : 1000px ){
+	
+	
+	.team-box { 
+		width:32%;
+		margin-top:20px;
+	}
+	
+	
+}
+
+@media all and ( max-width : 878px ){
+	
+	
+	.g-box { 
+		width:32%;
+		margin-top:20px;
+	}
+	
+	
+}
+
+@media all and ( max-width : 768px ){
+	
+	
+	.team-box { 
+		width:40%;
+		margin-top:20px;
+	}
+	.g-box{ 
+		width:46%;
+	}
+	
+	
+}
+@media all and ( max-width : 490px ){
+	
+	
+	.g-box{ 
+		width:100%;
+		margin-top:20px;
+	}
+	
+	
+}
+
+@media all and ( max-width : 430px ){
+	
+	
+	.team-box { 
+		width:100%;
+		margin-top:20px;
+	}
+	
+	
+}
+
+
+
